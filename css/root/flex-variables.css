@@ -21,6 +21,13 @@
     /* default */
     --flex-wrap: wrap;
     --wrap-rev: wrap-reverse;
+    
+    /* flex-flow 
+    --------------------------------------------*/ 
+    --row-nowrap: row nowrap;
+    --row-wrap: row wrap;
+    --col-nowrap: column nowrap;
+    --col-wrap: column wrap;
 
     /* justify-content (main-axis - X)
     --------------------------------------------*/
