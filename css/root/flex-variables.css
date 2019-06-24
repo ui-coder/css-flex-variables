@@ -48,6 +48,7 @@
     --center: center;
     --between: space-between;
     --around: space-around;
+    --evenly: space-evenly;
 
     /* align-item (cross-axis - Y)
     --------------------------------------------*/
